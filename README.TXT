@@ -11,6 +11,6 @@ HOW TO START THIS PROJECT:You can compile with bluej or use the jar executable;
 
 AUTHORS:Ian Worsley
 USER INSTRUCTIONS:READING:
-Enter com port id eg :"COM1" into input box press read led on eeprom programmer will flash then go off once its read the eeprom led will flash constantly and the eeprom contents will be displayed in the textarea and a bin file will be written to your directory.
+Enter com port id eg :"COM1" into input box press read then the led on the eeprom programmer will flash then go off, once its read the eeprom led will flash constantly and the eeprom contents will be displayed in the textarea and a bin file will be written to your directory.
 WRITING:
 To write to the eeprom Enter com port id eg :"COM1" into input box then press write led will turn on once write complete led will turn off.

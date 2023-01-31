@@ -12,7 +12,7 @@ HOW TO START THIS PROJECT:There is a java jar file download it and allow as an e
 AUTHORS:Ian Worsley
 DESCRIPTION:An eeprom programmer client written in java that works with a homemade at28c256 eeprom programmer built in arduino check this out https://www.youtube.com/watch?v=K88pgWhEb1M.I have tested this on both my ubuntu and windows 10 machines it works but is rather slow at writing but gets the job done and is cheap to make.
 USER INSTRUCTIONS:
-The java client requires the arduino sketch adapted from ben promner sdp also on my git hub https://github.com/aussieworz1983/BenPrommer-SDP.
+The java client requires the arduino sketch from bread80 https://github.com/aussieworz1983/BenPrommer-SDP which has extra functionallity like remove write protection on 28c256 its forked and adapted to work with the client on my git hub https://github.com/aussieworz1983/BenPrommer-SDP.
 
 Writing:
 Check the com port for your device is selected in the port picker dropdown, if writing open file from file tab once filr opened press write when its finished light on nano will no longer flash.
